@@ -1,3 +1,6 @@
+# This is code for the video:-
+https://youtu.be/PPNkpJ_rhRU
+
 # Sentiment Analysis using Tweepy
 Sentiment analysis is the branch of NLP which focuses on analysing the sentiment of a given piece of text.
 
@@ -33,11 +36,11 @@ Introduction: Twitter is a popular social network where users share messages cal
 
 ### Steps to obtain keys: 
 1. Login to twitter developer section 
-2. Go to ìCreate an Appî
+2. Go to ‚ÄúCreate an App‚Äù
 3. Fill the details of the application.
 4. Click on Create your Twitter Application
 5. Details of your new app will be shown along with consumer key and consumer secret.
-6. For access token, click î Create my access tokenî. The page will refresh and generate access token.
+6. For access token, click ‚Äù Create my access token‚Äù. The page will refresh and generate access token.
 
 Tweepy is one of the library that should be installed using pip. Now in order to authorize our app to access Twitter on our behalf, we need to use the OAuth Interface. Tweepy provides the convenient Cursor interface to iterate through different types of objects. Twitter allows a maximum of 3200 tweets for extraction.
 
