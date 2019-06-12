@@ -1,0 +1,24 @@
+## Useful links:-
+
+### What is Bitcoin:
+1. https://www.youtube.com/watch?v=nVFDZsxOMRg
+1. https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+### ABER cryptocurrency:
+1. https://gulfbusiness.com/uae-saudi-reveal-details-common-digital-currency-aber/
+1. https://medium.com/@tokensdaily/uae-saudi-arabian-digital-currency-aber-to-be-restricted-to-select-banks-at-start-f7572f139a02
+1. https://youtu.be/12YVaB1q9m8
+
+### Social Media Monitoring:
+1. https://www.brandwatch.com/blog/what-is-social-media-monitoring-answers-to-common-questions-and-misconceptions/
+1. https://medium.com/@the_manifest/social-listening-tools-and-strategies-to-improve-your-brand-1d110469d770
+1. https://www.netbase.com/blog/what-is-social-media-monitoring-sma-guide-part-2/
+
+### Tweepy API:
+1. http://docs.tweepy.org/en/3.7.0/
+1. http://docs.tweepy.org/en/3.7.0/api.html#tweepy-api-twitter-api-wrapper
+
+### Sentiment Analysis:
+1. https://monkeylearn.com/sentiment-analysis/
+1. https://www.brandwatch.com/blog/understanding-sentiment-analysis/
+1. https://en.wikipedia.org/wiki/Sentiment_analysis
